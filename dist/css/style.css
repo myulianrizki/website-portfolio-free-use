@@ -1182,12 +1182,7 @@ label {
   margin: 0 auto;
   z-index: 1;
 }
-.has-animations .features-extended {
-  opacity: 0;
-}
-.has-animations.is-loaded .features-extended {
-  opacity: 1;
-}
+
 .features-extended-header {
   margin-bottom: 32px;
 }
